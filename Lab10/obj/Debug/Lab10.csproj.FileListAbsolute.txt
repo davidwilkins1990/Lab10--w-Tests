@@ -1,0 +1,16 @@
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\nunit.engine.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\nunit.engine.api.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Mono.Cecil.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\nunit.framework.dll
+C:\Users\aManHasNoName\source\repos\Lab10\Lab10\bin\Debug\nunit.framework.xml
